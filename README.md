@@ -9,12 +9,12 @@
   <br>
 
   <!-- Yetenek Logolari -->
-  <img src="https://skillicons.dev/icons?i=java,gradle,git,github,linux,mysql,idea" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=java,gradle,github,linux,idea" alt="My Skills" />
 
   <br><br>
 
   <!-- Profil Ziyaret Sayaci (Turuncu) (SENIN_GITHUB_ADIN KISMINI KENDI ADINLA DEGISTIR) -->
-  <img src="https://komarev.com/ghpvc/?username=SENIN_GITHUB_ADIN&label=Profile%20Views&color=FF8C00&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MHD-61&label=Profile%20Views&color=FF8C00&style=flat-square" alt="Profile Views" />
 </div>
 
 <br>
