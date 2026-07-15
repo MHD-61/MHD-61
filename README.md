@@ -3,7 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+MHD+%F0%9F%91%8B;Minecraft+Developer;Founder+of+RevusWorks;Java+%26+Security+Enthusiast" alt="Typing SVG" />
   
   <p align="center">
-    <i>Building robust anticheat architectures and high-performance server systems.</i>
+    <i>Robotekno College 11th Grade Student • Software Developer & Java Developer
+
+</i>
   </p>
 
   <br>
