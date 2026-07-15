@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Hareketli (Typing) Yazi - Turuncu Renk (color=FF8C00) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+MHD+👋;Minecraft+Anti-Cheat+Developer;Founder+of+SentinelAC;Java+%26+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+MHD+%F0%9F%91%8B;Minecraft+Anti-Cheat+Developer;Founder+of+SentinelAC;Java+%26+Security+Enthusiast" alt="Typing SVG" />
   
   <p align="center">
     <i>Building robust anticheat architectures and high-performance server systems.</i>
@@ -13,7 +13,7 @@
 
   <br><br>
 
-  <!-- Profil Ziyaret Sayaci (Turuncu) -->
+  <!-- Profil Ziyaret Sayaci (Turuncu) (SENIN_GITHUB_ADIN KISMINI KENDI ADINLA DEGISTIR) -->
   <img src="https://komarev.com/ghpvc/?username=SENIN_GITHUB_ADIN&label=Profile%20Views&color=FF8C00&style=flat-square" alt="Profile Views" />
 </div>
 
@@ -47,6 +47,7 @@ My current focus is on developing **Sentinel Anti-Cheat**, a next-gen simulation
 ## 📊 GitHub Stats
 
 <div align="center">
+  <!-- SENIN_GITHUB_ADIN KISIMLARINI DEGISTIRMEYI UNUTMA -->
   <img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_ADIN&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF8C00&icon_color=FF8C00" alt="MHD's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_GITHUB_ADIN&layout=compact&theme=tokyonight&hide_border=true&title_color=FF8C00" alt="Top Languages" />
 </div>
@@ -55,5 +56,5 @@ My current focus is on developing **Sentinel Anti-Cheat**, a next-gen simulation
 
 ## 📬 Contact
 
-- 💼 **Discord:** `senin_discord_adin`
-- 📧 **Email:** `senin_epostan@gmail.com`
+- 💼 **Discord:** `mhddev0`
+- 📧 **Email:** `mhddev61@gmail.com`
