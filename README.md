@@ -22,7 +22,7 @@
 ## 🧠 About Me
 
 I'm **MHD**, balancing my time with a deep passion for **Minecraft server security** and **software development**. 
-I specialize in building robust backend architectures and highly efficient cheat detection systems. My journey is driven by curiosity—I don't just use technology, I strive to understand its vulnerabilities and potential for optimization.
+I specialize in building robust backend architectures and highly efficient cheat detection systems At the same time, I am developing Java-focused projects. My journey is driven by curiosity—I don't just use technology, I strive to understand its vulnerabilities and potential for optimization.
 
 My current focus is on developing **Sentinel Anti-Cheat**, a next-gen simulation-based anticheat. and another java plugins
 
