@@ -44,16 +44,6 @@ My current focus is on developing **Sentinel Anti-Cheat**, a next-gen simulation
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- SENIN_GITHUB_ADIN KISIMLARINI DEGISTIRMEYI UNUTMA -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_ADIN&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF8C00&icon_color=FF8C00" alt="MHD's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_GITHUB_ADIN&layout=compact&theme=tokyonight&hide_border=true&title_color=FF8C00" alt="Top Languages" />
-</div>
-
----
-
 ## 📬 Contact
 
 - 💼 **Discord:** `mhddev0`
